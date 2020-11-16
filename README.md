@@ -6,3 +6,4 @@ Para completar la primera práctica obligatoria sobre gestión de tareas en meto
 **Incluid debajo el nombre de los miembros del grupo:**
 
 - [Mauricio De Armas Garcia-Valdecasas](https://github.com/mdg1007)
+- [Luis Miguel Agüero Hernando](https://github.com/lah1002)
