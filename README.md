@@ -26,3 +26,5 @@ Integrate SonarQube
 Minor fixes 
 
 Minor fixes 
+
+Document Diseno Arquitectonico
