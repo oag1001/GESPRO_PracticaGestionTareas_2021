@@ -36,3 +36,5 @@ Fix exclusions sonarqube
 Fix exclusions sonarqube
 
 Fix binary files sonarqube
+
+Document especificación de requisitos
