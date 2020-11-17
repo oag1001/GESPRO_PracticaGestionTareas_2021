@@ -64,3 +64,5 @@ Implement generate sample data
 Fix delete old current weather
 
 Allow multiline notes
+
+Fix overlap with long weather conditions
