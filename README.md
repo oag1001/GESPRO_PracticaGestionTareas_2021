@@ -30,3 +30,5 @@ Minor fixes
 Document Diseno Arquitectonico
 
 Add references
+
+Improve Diseno Arquitectonico documentation
