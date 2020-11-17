@@ -38,3 +38,5 @@ Minor fix
 Document Diseno procedimental
 
 Document Diseno de Interfaces
+
+Enter coordinates manually
