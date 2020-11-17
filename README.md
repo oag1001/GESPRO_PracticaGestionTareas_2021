@@ -66,3 +66,5 @@ Fix delete old current weather
 Allow multiline notes
 
 Fix overlap with long weather conditions
+
+Add new tests to utility classes
