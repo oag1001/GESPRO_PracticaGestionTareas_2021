@@ -42,3 +42,5 @@ Document especificación de requisitos
 Document Viabilidad Economica
 
 Fix pdf images position
+
+Fix images position
