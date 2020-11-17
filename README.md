@@ -22,3 +22,5 @@ Integrate SonarQube
 Minor fix SonarQube
 
 Integrate SonarQube
+
+Minor fixes 
