@@ -17,4 +17,4 @@ Document sprint 15
 
 Add splash activity
 
-
+Integrate SonarQube
