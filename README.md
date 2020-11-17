@@ -44,3 +44,5 @@ Enter coordinates manually
 Convert to latex points 1 and 2
 
 Convert to latex point 3
+
+Convert to latex point 4
