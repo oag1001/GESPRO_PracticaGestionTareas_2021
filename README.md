@@ -33,6 +33,8 @@ Add references
 
 Improve Diseno Arquitectonico documentation
 
+Minor fix
+
 Document Diseno procedimental
 
 Document Diseno de Interfaces
