@@ -16,3 +16,5 @@ Para completar la primera práctica obligatoria sobre gestión de tareas en meto
 Document sprint 15
 
 Add splash activity
+
+Integrate SonarQube
