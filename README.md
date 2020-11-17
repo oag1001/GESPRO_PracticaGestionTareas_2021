@@ -56,3 +56,5 @@ Convert to latex point 7
 Improve references
 
 Fix apiary name overlap
+
+Fix exception with vectors in API < 21 
