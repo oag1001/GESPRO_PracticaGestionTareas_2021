@@ -61,4 +61,3 @@ Document Diseño de datos
 
 Implement generate sample data
 
-Fix delete old current weather
