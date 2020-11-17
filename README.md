@@ -54,3 +54,5 @@ Convert to latex point 6
 Convert to latex point 7
 
 Improve references
+
+Fix apiary name overlap
