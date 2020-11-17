@@ -19,3 +19,4 @@ Add splash activity
 
 Integrate SonarQube
 
+Minor fix SonarQube
