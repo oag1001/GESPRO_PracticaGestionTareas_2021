@@ -40,3 +40,5 @@ Document Diseno procedimental
 Document Diseno de Interfaces
 
 Enter coordinates manually
+
+Convert to latex points 1 and 2
