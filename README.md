@@ -26,3 +26,5 @@ Minor fix SonarQube
 Minor fixes
 
 Minor fixes
+
+Finish SonarQube integration
