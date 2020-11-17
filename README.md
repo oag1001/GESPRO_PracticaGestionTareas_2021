@@ -30,3 +30,5 @@ Minor fixes
 Finish SonarQube integration
 
 Add coverage report to sonarqube
+
+Fix exclusions sonarqube
