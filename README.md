@@ -33,6 +33,7 @@ Add references
 
 Improve Diseno Arquitectonico documentation
 
+Improve display of videos
 Minor fix
 
 Document Diseno procedimental
