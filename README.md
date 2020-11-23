@@ -72,3 +72,5 @@ Document Manual de usuario
 Minor changes 
 
 Minor fix
+
+Improve help
