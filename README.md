@@ -79,3 +79,5 @@ Improve help
 Improve display of videos
 
 Fix weather data summary bug
+
+Fix count down
