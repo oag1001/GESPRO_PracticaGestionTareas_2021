@@ -77,3 +77,5 @@ Minor fix
 Improve help
 
 Improve display of videos
+
+Fix weather data summary bug
