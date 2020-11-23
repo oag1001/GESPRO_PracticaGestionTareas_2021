@@ -68,3 +68,5 @@ Add help contents
 Add video-tutorials
 
 Document Manual de usuario
+
+Minor changes 
