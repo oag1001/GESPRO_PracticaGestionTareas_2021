@@ -61,4 +61,6 @@ Fix exception with vectors in API < 21
 
 Fix weather charts
 
+Add UI tests
+
 
