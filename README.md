@@ -66,3 +66,5 @@ Add UI tests
 Add help contents
 
 Add video-tutorials
+
+Document Manual de usuario
