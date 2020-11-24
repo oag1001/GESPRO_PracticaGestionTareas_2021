@@ -101,3 +101,5 @@ Convert annex A to latex
 Add cd cover
 
 Add cd cover
+
+Add Google Play link
