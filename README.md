@@ -107,3 +107,5 @@ Add Google Play link
 Update .gitignore
 
 Finish website
+
+Minor fixes and compress imgs
