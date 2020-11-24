@@ -97,3 +97,5 @@ Convert annex E to latex
 Convert annex B to latex
 
 Convert annex A to latex
+
+Add cd cover
