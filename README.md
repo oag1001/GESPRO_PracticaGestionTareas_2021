@@ -113,3 +113,5 @@ Minor fixes and compress imgs
 Minor changes
 
 Minor changes
+
+Add docs link
