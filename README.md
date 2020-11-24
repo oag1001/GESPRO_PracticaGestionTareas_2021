@@ -105,3 +105,5 @@ Add cd cover
 Add Google Play link
 
 Update .gitignore
+
+Finish website
