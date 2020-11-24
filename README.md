@@ -85,3 +85,5 @@ Fix count down
 Improve docs
 
 Add javadoc
+
+Document Manual Programador
